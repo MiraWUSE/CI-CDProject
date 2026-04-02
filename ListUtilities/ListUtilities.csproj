@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+
+		<PackageId>MiraWUSE.ListOperationsLibrary</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>MiraWUSE</Authors>
+		<Description>Библиотека утилит для безопасной работы со списками на C#. Включает валидацию границ, обработку null и упрощённый интерфейс.</Description>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageProjectUrl>https://github.com/MiraWUSE/ListOperationsLibrary</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/MiraWUSE/ListOperationsLibrary</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+		<GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+	</PropertyGroup>
+</Project>
